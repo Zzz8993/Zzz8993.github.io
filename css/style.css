@@ -1,0 +1,85 @@
+* {
+    font-family: sans-serif, Verdana, Geneva,  Roboto;
+    background: url('../../img/bg/black_bg.png') center center / cover no-repeat;
+}
+.container {
+    margin: 0 auto;
+    width: 600px;
+    height: 900px;
+}
+h1 {
+    color: #fff;
+    font-size: 32px;
+    text-align: center;
+    font-weight: 600;
+    margin-top: 10px;
+}
+h2 {
+    font-size: 24px;
+    text-align: center;
+    color: #fff;
+    font-weight: 500;
+    margin-bottom: 20px;
+}
+.about-me {
+    font-size: 18px;
+    color: #FDFCFC;
+    transform: translateX(30%);
+    font-weight: 300;
+}
+.hobbies {
+    margin: 50px auto;
+    color: #FDFCFC;
+    font-weight: 300;
+}
+
+.hobby-title {
+    font-size: 24px;
+    text-align: center;
+    font-weight: 500;
+    color: #FFF;
+    margin-bottom: 20px;
+}
+
+.hobby-subtitle {
+    font-size: 18px;
+    transform: translateX(30%);
+}
+
+.contact-title {
+    text-align: center;
+    font-size: 21px;
+    font-weight: 500;
+    color: #FFF;
+    margin-bottom: 20px;
+}
+.contact-subtitle {
+    font-size: 18px;
+    font-weight: 100;
+    text-align: center;
+    color: #FDFCFC;
+}
+
+.steam-link {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    color: #220CC4;
+}
+
+.github-link {
+    margin-top: 10px;
+    display: flex;
+    justify-content: center;
+    color: #220CC4;
+}
+
+.steam_avatar {
+    display: block;
+    width: 400px;
+    height: 300px;
+    margin: 20px auto;
+    border: 1px solid #595959;
+}
+
+
